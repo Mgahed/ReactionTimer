@@ -1,5 +1,5 @@
-# reaction-timer
-
+# reaction timer
+This project test your reaction time on screen
 ## Project setup
 ```
 npm install
@@ -15,5 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Project Link
+![alt text](https://www.indraneelam.com/wp-content/uploads/2017/02/coming-soon-1.png)
+
+[comment]: <> (See [Configuration Reference]&#40;https://cli.vuejs.org/config/&#41;.)

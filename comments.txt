@@ -1,0 +1,4 @@
+######--- commentat video 3 ---##########
+mounted() //lma el envent y fire
+updated() //lma el event y5ls
+unmounted() //lma el component y5tfy aw ytshal
